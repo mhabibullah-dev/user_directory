@@ -4,14 +4,9 @@ A beautifully designed, corporate-style user directory Flutter application. The 
 
 ## 📸 Screenshots
 
-|                              User Directory (Success)                              |                                 Connection Error (Retry)                                 |                                     Loading State                                     |
-| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| <img width="484" height="970" alt="Screenshot 2026-05-22 at 8 07 15 PM" src="https://github.com/user-attachments/assets/8691c2bc-82c1-4547-ad52-6829d9e02f2e" />
-| <img width="481" height="973" alt="Screenshot 2026-05-22 at 8 10 02 PM" src="https://github.com/user-attachments/assets/3c4c2979-01e2-4d96-8215-e567a84def80" />
-
-| <img width="474" height="978" alt="Screenshot 2026-05-22 at 8 08 03 PM" src="https://github.com/user-attachments/assets/8633a874-d80d-4963-ba06-7bece6eccadc" />|
-
-
+|                                                    User Directory (Success)                                                    |                                                   Connection Error (Retry)                                                   |                                                         Loading State                                                          |
+| :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/8691c2bc-82c1-4547-ad52-6829d9e02f2e" width="250" alt="Success Screen" /> | <img src="https://github.com/user-attachments/assets/3c4c2979-01e2-4d96-8215-e567a84def80" width="250" alt="Error Screen" /> | <img src="https://github.com/user-attachments/assets/8633a874-d80d-4963-ba06-7bece6eccadc" width="250" alt="Loading Screen" /> |
 
 ## 🎯 Project Requirements: API Integration and Networking
 
